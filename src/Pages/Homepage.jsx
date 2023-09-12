@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "../components/Navcoponents/Nav";
+// import Nav from "../components/Navcoponents/Nav";
 import Posts from "../components/Posts/Posts";
 import Form from "../components/Form/Form";
 import { useState, useEffect } from "react";
