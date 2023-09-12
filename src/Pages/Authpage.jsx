@@ -21,7 +21,7 @@ const Authpage =()=>{
 	
 	  if (authenticated) {
 			// return <Navigate replace to="/" />;
-			// navigate('/');
+			navigate('/');
 			// return <redirect to="https://secret-share.netlify.app/" />;
 		} else {
 	
